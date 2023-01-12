@@ -1,3 +1,6 @@
+body{
+	background-color: #f28c18;
+}
 .grid {
 	width: 606px;
 	height: 606px;
@@ -14,4 +17,15 @@
 .mole {
 	background-image: url("mole.jpg");
 	background-size: cover;
+}
+
+.grid{
+	margin: auto;
+}
+
+.start-btn{
+	position: relative;
+	top: 50px;
+	display: flex;
+	margin: 0px auto 50px auto;
 }
